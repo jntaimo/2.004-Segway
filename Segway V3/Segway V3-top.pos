@@ -1,0 +1,56 @@
+### Footprint positions - created on 2023 July 25, Tuesday 11:36:06 ###
+### Printed by KiCad version 7.0.1-0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref      Val            Package                                                            PosX       PosY       Rot  Side
+A1         BNO085         Adafruit_BNO085                                                186.0700  -133.7300   90.0000  top
+C_LED1     1000uF         CP_Radial_D10.0mm_P5.00mm                                      203.2500  -110.3677   90.0000  top
+C_i2C1     10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                    223.6000  -120.9625  -90.0000  top
+C_i2C2     0.1uF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                    221.6000  -120.9625  -90.0000  top
+Cbst1      100nF          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                    102.4000  -126.4125    0.0000  top
+Cin1       10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                    108.0875  -134.7125  180.0000  top
+Cin2       10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                    108.0500  -132.7125  180.0000  top
+Cout1      22uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                     92.2000  -134.2000    0.0000  top
+Cout2      22uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                     92.2000  -136.2000    0.0000  top
+D1         MOTOR_LED      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder                  150.4000  -125.8000  -90.0000  top
+D2         Power_LED      LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder                  122.5000  -136.6000    0.0000  top
+E1         Encoder_L      JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal               141.7500  -142.0000    0.0000  top
+E2         Encoder_R      JST_PH_S4B-PH-SM4-TB_1x04-1MP_P2.00mm_Horizontal               155.7500  -142.0000    0.0000  top
+F1         2A             Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder                 114.0000  -139.5125  -90.0000  top
+J2         WS2812B_LED    PinHeader_1x03_P2.54mm_Vertical                                192.0000  -104.0000  -90.0000  top
+J3         3.3V_BUS       PinHeader_1x04_P2.54mm_Vertical                                127.0000  -119.5000    0.0000  top
+J4         GND_BUS        PinHeader_1x04_P2.54mm_Vertical                                118.0000  -119.5000    0.0000  top
+J5         5V_BUS         PinHeader_1x04_P2.54mm_Vertical                                122.5000  -119.5000    0.0000  top
+J6         I2C            PinHeader_1x04_P2.54mm_Vertical                                131.5000  -119.5000    0.0000  top
+J7         UART           PinHeader_1x04_P2.54mm_Vertical                                136.0000  -119.5000    0.0000  top
+J8         Motor_Control  PinHeader_1x05_P2.54mm_Vertical                                157.2500  -131.5750  180.0000  top
+J9         Power_Input    TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal   104.1075  -141.3075    0.0000  top
+L1         3.3uH          L_Vishay_IHLP-4040                                              93.9000  -127.8125  180.0000  top
+MOTOR_SW1  SW2            SW_Slide_1P2T_CK_OS102011MS2Q                                  145.5000  -125.0750  -90.0000  top
+POT1       10K            Pot_breadboard                                                 105.0000  -105.0000   90.0000  top
+POT2       10K            Pot_breadboard                                                 127.5000  -105.0000   90.0000  top
+POT3       10K            Pot_breadboard                                                 150.0000  -105.0000   90.0000  top
+POT4       10K            Pot_breadboard                                                 222.5000  -105.0000   90.0000  top
+Q1         DMMT5401-7-F   SOT95P285X140-6N                                                90.4000  -143.5625   90.0000  top
+Q2         DMG2305UX-13   SOT91P240X110-3N                                                90.4000  -139.3125  -90.0000  top
+Qw1        Qwiic          JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical                 216.2000  -121.6750    0.0000  top
+Qw2        Qwiic          JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical                 216.2000  -128.0000    0.0000  top
+Qw3        Qwiic          JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical                 216.2000  -134.5000    0.0000  top
+Qw4        Qwiic          JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical                 216.2000  -141.6750    0.0000  top
+RBAT1      8.2k           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    117.5875  -132.0000    0.0000  top
+RBAT2      2k             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    117.5000  -133.5000    0.0000  top
+RN1        10K            Resistor_Network_8X_10N                                        224.3150  -135.1300    0.0000  top
+R_LED1     220Ω          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    189.5000  -108.9125   90.0000  top
+R_MOTOR1   100Ω          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    150.4000  -129.4875   90.0000  top
+R_PWR1     68Ω           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    122.5000  -135.0000  180.0000  top
+R_ZVD_1    10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                     94.4000  -139.0000   90.0000  top
+R_ZVD_2    47K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                     94.4000  -143.5625   90.0000  top
+Rfbb1      10k            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    109.3000  -126.5000   90.0000  top
+Rfbt1      56.2k          R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                    112.0875  -127.5000  180.0000  top
+S1         Power_SW       SW_Slide_1P2T_CK_OS102011MS2Q                                  118.0000  -138.6125  -90.0000  top
+SW1        Reset_SW       SW_PUSH_6mm                                                    130.5000  -138.2625  -90.0000  top
+U1         ProS3          ProS3_TH                                                       174.3600  -124.0400  180.0000  top
+U2         TCA9548APWR    SOP65P640X120-24N                                              229.6000  -123.0000   90.0000  top
+U3         TPS564208DDCT  SOT95P280X110-6N                                               106.2575  -127.9250   90.0000  top
+U4         EYESPI         Hirose_FH12-18S-0.5SH_1x18-1MP_P0.50mm_Horizontal              192.5000  -120.0000  180.0000  top
+## End
