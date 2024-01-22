@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "TPS564208DDCT")(type "KiCad")(uri "${KIPRJMOD}/TPS564208DDCT/TPS564208DDCT.kicad_sym")(options "")(descr ""))
-  (lib (name "TCA9548APWR")(type "KiCad")(uri "${KIPRJMOD}/TCA9548APWR/TCA9548APWR.kicad_sym")(options "")(descr ""))
-)
